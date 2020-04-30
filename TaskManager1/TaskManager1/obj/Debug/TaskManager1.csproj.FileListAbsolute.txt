@@ -1,0 +1,9 @@
+C:\Users\Rudy\source\repos\TaskManager1\TaskManager1\bin\Debug\TaskManager1.exe.config
+C:\Users\Rudy\source\repos\TaskManager1\TaskManager1\bin\Debug\TaskManager1.exe
+C:\Users\Rudy\source\repos\TaskManager1\TaskManager1\bin\Debug\TaskManager1.pdb
+C:\Users\Rudy\source\repos\TaskManager1\TaskManager1\obj\Debug\TaskManager1.csprojAssemblyReference.cache
+C:\Users\Rudy\source\repos\TaskManager1\TaskManager1\obj\Debug\TaskManager1.Form1.resources
+C:\Users\Rudy\source\repos\TaskManager1\TaskManager1\obj\Debug\TaskManager1.Properties.Resources.resources
+C:\Users\Rudy\source\repos\TaskManager1\TaskManager1\obj\Debug\TaskManager1.csproj.GenerateResource.cache
+C:\Users\Rudy\source\repos\TaskManager1\TaskManager1\obj\Debug\TaskManager1.exe
+C:\Users\Rudy\source\repos\TaskManager1\TaskManager1\obj\Debug\TaskManager1.pdb
